@@ -12,7 +12,7 @@ const Home = () => {
         {/* Spline as background */}
         <Spline
           className="fixed inset-0 z-0 w-full h-full"
-          scene="https://draft.spline.design/vyg44pKP1MVpS3-H/scene.splinecode"
+          scene="https://draft.spline.design/eNDKVRdJQbyUs1Hr/scene.splinecode"
         />
       </section>
       <section className="relative w-full min-h-screen bg-gray-900 flex items-center justify-center">
