@@ -37,22 +37,22 @@ const Home = () => {
           <ThreeDCardDemo
             title="Oryx"
             description="Fast and agile, the Oryx leads the charge."
-            image="/1.png"
+            image="/5.png"
           />
           <ThreeDCardDemo
             title="Wolf"
             description="The Wolf is strong and loyal to the pack."
-            image="/3.png"
+            image="/4.png"
           />
           <ThreeDCardDemo
             title="Leopard"
             description="Stealthy and powerful, the Leopard strikes unseen."
-            image="/4.png"
+            image="/3.png"
           />
           <ThreeDCardDemo
             title="Falcon"
             description="The Falcon soars above, always watching."
-            image="/5.png"
+            image="/1.png"
           />
         </div>
       </section>
